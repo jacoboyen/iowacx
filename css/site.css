@@ -587,3 +587,6 @@ body {
     margin: 1em;
     text-align: center;
   }
+  .usac{
+    max-height: 20px;
+  }
